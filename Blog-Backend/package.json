@@ -9,7 +9,7 @@
   "author": "Jinhu Wang",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cd": "^0.3.3",
     "koa-router": "^8.0.8",
     "koa2": "^2.0.0-alpha.7",
